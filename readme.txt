@@ -1,7 +1,7 @@
 === WooCommerce Payment Reminder ===
 Contributors: nipoto
 Donate link: http://ideyeno.ir
-Tags: stable, woocommerce, Payment Reminder, Reminder, Payment, wordpress
+Tags: stable, woocommerce, Payment Reminder, Reminder, Payment, wordpress, یادآور, پرداخت, ووکامرس
 Requires at least: 3.0.1
 Tested up to: 3.4
 Stable tag: 1.0.5
