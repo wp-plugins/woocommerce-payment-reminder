@@ -8,11 +8,11 @@ Stable tag: 1.0.5
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Send Payment Reminder via Email for WooCommerce ...
+افزونه ارسال ایمیل یادآور برای سفارشات در انتظار پرداخت ...
 
 == Description ==
 
- افزونه ارسال ایمیل یادآور برای سفارشات در انتظار پرداخت ...
+Send Payment Reminder via Email for WooCommerce ...
  
 * info@ideyeno.ir 
 
