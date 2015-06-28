@@ -1,4 +1,4 @@
-=== Woocommerce Payment Reminder ===
+=== WooCommerce Payment Reminder ===
 Contributors: nipoto
 Donate link: http://ideyeno.ir
 Tags: stable, woocommerce, Payment Reminder, Reminder, Payment, wordpress

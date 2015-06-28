@@ -1,7 +1,7 @@
 <?php 
 
 	/*
-		Plugin Name: Woocommerce Payment Reminder
+		Plugin Name: WooCommerce Payment Reminder
 		Plugin URI: https://wordpress.org/plugins/woocommerce-payment-reminder/
 		Description: افزونه ارسال ایمیل یادآور برای سفارشات در انتظار پرداخت ...
 		Version: 0.3
