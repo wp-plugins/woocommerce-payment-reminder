@@ -16,6 +16,9 @@ Remind Customers who have Unpaid Order by Sending them Email Reminder Directly f
 
 * Send Reminder button in the Order Listing Page for on-hold Orders
 
+= از ما حمایت کنید : =
+[ * * * * * ](https://wordpress.org/support/view/plugin-reviews/woocommerce-payment-reminder?rate=5#postform/)
+
 `Nima Saberi
 * info@ideyeno.ir`
 
