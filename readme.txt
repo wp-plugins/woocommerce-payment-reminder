@@ -49,7 +49,7 @@ Remind Customers who have Unpaid Order by Sending them Email Reminder Directly f
 
 = 0.5 =
 * فراهم کردن امکان ترجمه به زبان های دیگر
-* اضافه شدن زبان انگلیسی
+* اضافه شدن زبان انگلیسی (en_US)
 
 = 0.3 =
 * Initial commit.
