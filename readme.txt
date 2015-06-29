@@ -1,9 +1,9 @@
 === WooCommerce Payment Reminder ===
 Contributors: nipoto
 Donate link: http://ideyeno.ir
-Tags: stable, woocommerce, Payment Reminder, Reminder, Payment, wordpress, یادآور, پرداخت, ووکامرس
+Tags: woocommerce, Payment Reminder, Reminder, Payment, wordpress, یادآور, پرداخت, ووکامرس
 Requires at least: 3.0.1
-Tested up to: 3.4
+Tested up to: 4.2.2
 Stable tag: 1.0.5
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -12,9 +12,12 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 == Description ==
 
-Send Payment Reminder via Email for WooCommerce ...
- 
-* info@ideyeno.ir 
+Remind Customers who have Unpaid Order by Sending them Email Reminder Directly from the Order Listing Page ...
+
+* Send Reminder button in the Order Listing Page for on-hold Orders
+
+`Nima Saberi
+* info@ideyeno.ir`
 
 == Installation ==
 
