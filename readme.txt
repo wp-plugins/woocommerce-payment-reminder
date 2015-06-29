@@ -16,11 +16,15 @@ Remind Customers who have Unpaid Order by Sending them Email Reminder Directly f
 
 * Send Reminder button in the Order Listing Page for on-hold Orders
 
+Languages :
+* فارسی (fa_IR)
+* English (en_US)
+
 = از ما حمایت کنید : =
 [ * * * * * ](https://wordpress.org/support/view/plugin-reviews/woocommerce-payment-reminder?rate=5#postform/)
 
 `Nima Saberi
-* info@ideyeno.ir`
+* wordpress@ideyeno.ir`
 
 == Installation ==
 
@@ -31,8 +35,14 @@ Remind Customers who have Unpaid Order by Sending them Email Reminder Directly f
 == Screenshots ==
 
 1. اضافه شدن گزینه یادآور به لیست سفارشات پرداخت نشده
+2. نمونه ایمیل ارسال شده به زبان فارسی
+3. نمونه ایمیل ارسال شده به زبان انگلیسی
 
 == Changelog ==
+
+= 0.5 =
+* فراهم کردن امکان ترجمه به زبان های دیگر
+* اضافه شدن زبان انگلیسی
 
 = 0.3 =
 * Initial commit.
