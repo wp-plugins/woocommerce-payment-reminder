@@ -80,7 +80,7 @@
 		
 		function wc_payment_reminder_recommend() {
 			if ( is_admin() ) {
-				if ( ! is_plugin_active( 'woocommerce-count-orders-in-adminba/index.php' ) ) {
+				if ( ! is_plugin_active( 'woocommerce-count-orders-in-adminbar/index.php' ) ) {
 					add_action( 'admin_notices', 'wc_pr_admin_notice' );
 				}
 			}
