@@ -178,15 +178,16 @@
 		}
 		
 		// انتقال به پنل تنظیمات پس از نصب
-		register_activation_hook(__FILE__, 'woopr_oauth_activate');
+		register_activation_hook(__FILE__, 'woopr_activate');
 		add_action('admin_init', 'woopr_plugin_redirect');
-		function woopr_oauth_activate() {
+		function woopr_activate() {
 			add_option('woopr_plugin_do_activation_redirect', true);
 		}
 		function woopr_plugin_redirect() {
 			if (get_option('woopr_plugin_do_activation_redirect', false)) {
 				delete_option('woopr_plugin_do_activation_redirect');
 				wp_redirect(admin_url('admin.php?page=payment-reminder'));
+				exit;
 			}
 		}
 		
