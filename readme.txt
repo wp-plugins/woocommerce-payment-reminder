@@ -12,7 +12,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 == Description ==
 
-Remind Customers who have Unpaid Order by Sending them Email Reminder Directly from the Order Listing Page ...
+Remind Customers who have Unpaid Order by Sending them Email Reminder Directly from the Woocommerce Order Listing Page ...
 
 * Send Reminder button in the Order Listing Page for on-hold Orders
 
